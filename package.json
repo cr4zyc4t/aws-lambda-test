@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/cr4zyc4t/aws-lambda-test#readme",
   "dependencies": {
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.19"
   }
 }
